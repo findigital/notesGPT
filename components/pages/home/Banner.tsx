@@ -54,7 +54,7 @@ function BackgroundGradient() {
       style={{
         opacity: '0.4',
         background:
-          'radial-gradient(54.14% 54.14% at 50% 50%, #650293 0%, rgba(103, 2, 139, 0.02) 100%)',
+          'radial-gradient(54.14% 54.14% at 50% 50%, #0F2C26 0%, rgba(15, 44, 38, 0.02) 100%)',
         filter: 'blur(177px)',
       }}
     />
