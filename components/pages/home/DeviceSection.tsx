@@ -4,7 +4,7 @@ const DeviceSection = () => {
   return (
     <div className="max-width py-10">
       <div className="flex w-full items-center">
-        <Image
+        {/* <Image
           src="/images/mobile.png"
           width={500}
           height={600}
@@ -19,7 +19,7 @@ const DeviceSection = () => {
             alt="laptop"
             className="h-full w-full"
           />
-        </div>
+        </div> */}
       </div>
     </div>
   );

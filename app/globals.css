@@ -21,13 +21,7 @@
 }
 
 .primary-gradient {
-  background: linear-gradient(
-    267deg,
-    #4402d2 -9.43%,
-    #040218 -9.42%,
-    rgba(63, 17, 100, 0.94) 4.63%,
-    rgba(14, 14, 18, 0.82) 127.55%
-  );
+  background: #0F2C26;
 }
 
 .primary-shadow {
