@@ -18,10 +18,10 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "convex": "^1.9",
+    "convex": "^1.17.0",
     "convex-helpers": "^0.1.15",
     "lucide-react": "^0.292.0",
-    "next": "^14.0.4",
+    "next": "^14.2.17",
     "next-plausible": "^3.12.0",
     "openai": "^4.20.1",
     "react": "^18",
@@ -46,5 +46,13 @@
     "prettier-plugin-tailwindcss": "^0.5.9",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
-  }
+  },
+  "description": "<a href=\"https://usenotesgpt.com/\">   <img alt=\"NotesGPT – AI-powered voice note taking in seconds.\" src=\"/public/images/og-image.png\">   <h1 align=\"center\">notesGPT</h1> </a>",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
